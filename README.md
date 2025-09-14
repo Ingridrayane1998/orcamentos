@@ -87,8 +87,6 @@ mysql -u seu_usuario -p facilities_system < sql/database_completo.sql
 Renomeie o arquivo de configuração de exemplo:
 
 Bash
-# (Se você tiver um arquivo de exemplo)
-# mv includes/config.example.php includes/config.php
 Configure as credenciais do banco de dados no arquivo includes/config.php:
 
 PHP
